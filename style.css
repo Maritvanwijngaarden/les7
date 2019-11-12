@@ -1,0 +1,256 @@
+
+    html, body{
+        margin:0;
+        padding:0;
+        background-color: #DED8CB;
+    }
+
+
+    #page1{
+        margin:200px;
+        margin-top:20px;
+        height: 1004px;
+        margin-bottom:0px;
+    }
+    #page2{
+        margin:200px;
+        height: 950px;
+        margin-top:0px;
+        margin-bottom:0px;
+
+    }
+    #page3{
+        margin:200px;
+        height: 950px;
+        margin-top:0px;
+        margin-bottom:0px;
+
+    }
+  
+
+    #image3{
+    width: 1300px;
+    height: 900px;
+    float:left;
+    background-image: url("Invulling/DiagramWebsiteDef.png");
+    background-size: cover;
+    }
+
+#image1{
+    width: 270px;
+    height: 930px;
+    float: left;
+    background-image: url("Invulling/Header1.png");
+    background-size: cover;
+
+
+}
+#naam{
+    width: 300px;
+    height: 100px;
+    float:left;
+    margin-left:-70px;
+    margin-top:200px;
+}
+#naam h2,p{
+    transform: rotate(90deg);
+}
+
+
+#image2{
+    background-color:red;
+    width: 1100px;
+    height: 170px;
+    float:left;
+    margin-top:-240px;
+    margin-left:200px;
+    background-image: url("Invulling/Header2.png");
+    background-size: cover;
+    opacity: 0.9;
+
+}
+
+#keuzevak{
+    width: 80px;
+    height: 80px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    float:right;
+}
+
+#keuzevak h3{
+    margin-left:10px;
+        margin-top:10px;
+        line-height: 25px;
+
+}
+
+ #article{
+        width:500px;
+        height:450px;
+        float:right;
+        margin-top:300px;
+        margin-right:-90px;
+    
+}
+#article h4, h5{
+    text-align: right;
+}
+#article h5 {
+    margin-top:-18px;
+}
+#article h1 {
+    margin-top:-20px;
+    font-size: 130px;
+    line-height: 1px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+color: transparent;
+text-align: right;
+
+}
+
+#article h2{
+    font-size: 110px;
+    line-height: 1px;
+    text-align: right;
+}
+
+    .content {
+        height:50px;
+        text-align: left;
+        line-height: 1px;
+    }
+
+    .content h5 {
+        font-size: 20px;
+        text-align: left;
+
+    }
+
+}
+h1{
+    font-family: 'Open Sans', sans-serif;
+        font-size:110px;
+        font-weight: 700;
+       
+}
+h2{
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size:20px;
+    font-weight: 700;
+}
+h3{
+        color: black;
+        font-family: 'Open Sans', sans-serif;
+        font-size:20px;
+        font-weight: 800;
+    }
+    h4{
+        color:black;
+        font-family: 'PT Serif Caption', serif;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    h5{
+        color: black;
+        font-family: 'Open Sans', sans-serif;
+        font-size:12px;
+        font-weight: 300;  
+    }
+    p{
+        color: black;
+        font-family: 'Open Sans', sans-serif;
+        font-size:15px;
+        font-weight: 300;  
+    }
+
+
+    #textblok1{
+        width: 600px;
+        height: 400px;
+        float:left;
+        text-align: right;
+        margin-right:100px;
+    }
+    #kader{
+        width: 400px;
+        height: 150px;
+        margin-top:100px;
+        margin-left:190px;
+        border-top: 3px solid black;
+
+    }
+  
+    #kader h5{
+        font-size: 15px;
+        margin-top:-2px;
+    }
+    #kader h4{
+    margin-bottom:0px;   
+}
+
+    #textblok2{
+        width: 600px;
+        height: 600px;
+        float:left;
+        background-image: url("Invulling/website/moodboard1.png");
+        background-size: cover;
+    }
+    #textblok3{
+        width: 600px;
+        height: 500px;
+        float:left;
+        margin-top:-200px;
+        background-image: url("Invulling/website/moodboard2.png");
+        background-size: cover;
+        margin-right:100px;
+
+
+    }
+    #textblok4{
+        width: 600px;
+        height: 300px;
+        float:left;
+        text-align: left;
+
+    }
+    #kader2{
+        width: 400px;
+        height: 150px;
+        margin-top:100px;
+        margin-left:0px;
+        border-top: 3px solid black;
+
+    
+    }
+    #kader2 h5{
+        font-size: 15px;
+        margin-top:-2px;
+        text-align: left;
+
+    }
+    #kader2 h4{
+    margin-bottom:0px;   
+    }
+
+
+    #text{
+        width: 600px;
+        height: 600px;
+        background-color:purple;
+        margin-top:300px;
+
+    }
+
+    #footer{
+        text-align:center;
+        color: black;
+        font-family: 'Open Sans', sans-serif;
+        font-size:20px;
+        font-weight: 300;  
+        color:black;
+    }
